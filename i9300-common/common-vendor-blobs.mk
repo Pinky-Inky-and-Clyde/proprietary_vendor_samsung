@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-LOCAL_PATH := vendor/samsung/smdk4412-common
+LOCAL_PATH := vendor/samsung/i9300-common
 
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/sbin/cbd:root/sbin/cbd
